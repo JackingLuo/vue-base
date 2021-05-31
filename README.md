@@ -1,4 +1,4 @@
-# base
+# Vue2.*项目模板
 
 ## Project setup
 ```
